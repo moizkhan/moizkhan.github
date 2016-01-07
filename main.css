@@ -1,0 +1,152 @@
+
+	body {background-color:#595959;}
+	
+	.social-media{
+		float:right;
+		margin-top:15px;
+	
+	}
+	.icon{
+		width:30px;
+		height:27px;
+		margin-left:20px;
+	
+	}
+	.icon:hover{
+		-webkit-filter: grayscale(50%); 
+			filter: grayscale(50%);
+			
+		
+	}
+	a{
+	 decoration:none;
+	}
+	.top-view{
+				background-image:url(images/cover2.jpg);
+                background-repeat: no-repeat;
+                background-size: 100% auto;
+                background-position: center top;
+                background-attachment: ;
+				margin-top:-7px;
+				margin-left:-7px;
+				margin-right:-7px;
+				box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+				
+				
+			   
+	}
+
+	.main-head{
+			margin:auto;
+			float:center;
+			width:30%;
+			font-family: "Clarendon URW Medium", Clarendon, 'Century Schoolbook', 'Times New Roman', Times, serif;
+			font-size-adjust: 0.477;
+			font-weight: 500;
+			font-style: normal;
+			color:#0669b2;
+			text-shadow: 0px  1px 2px gray;
+			text-align:center;
+			font-size:30px;
+	}
+	 .btn {
+            width:150px;
+            height:50px;
+            background-color: Transparent;
+            background-repeat:no-repeat;
+            border:solid 3px #0669b2;
+            border-radius:6px;
+            font-size:25px;
+            margin-left:-30px;
+            margin-top:100px;
+            text-shadow: 1px 1px 2px #00000;
+			
+			}
+	
+		.work{
+			margin-top:-30px;
+			float:center;
+			}
+		#what{
+			color:#0669b2;
+			font-size:40px;
+			text-align:center;
+			}
+		a {
+			text-decoration:none
+			}
+		a:active{
+			text-decoration:none
+		}
+		
+	#introduction{
+			width:800px; 
+			text-align:center;
+			float:center;
+			margin:0 auto;
+			color:#0669b2;
+			font-size:20px;
+			}
+		table,tr{
+			border: 3px solid #0669b2; 
+		}
+	.skill{text-align:center;
+			float:center;
+			margin:0 auto;
+			color:#0669b2;
+			font-size:60px;
+		}
+	.star{
+			height:60px;
+			width:60px;
+			float:left;
+	}
+	.skill-head{
+			float:left;
+			font-family: "Clarendon URW Medium", Clarendon, 'Century Schoolbook', 'Times New Roman', Times, serif;
+			font-size-adjust: 0.477;
+			font-weight: 800;
+			font-style: normal;
+			color:#0669b2;
+			font-size:30px;
+			}
+	.main-container{
+			float:left;
+		}
+	.container1{
+			float:left; 
+			margin-left:70px;
+			}
+	.container2{
+			float:left;
+			margin-left:160px;
+			}
+	.my-skills{
+			border-radius: 15px;
+			border: 4px solid #0669b2;
+			height:880px;
+			padding-top:20px;
+			padding-bottom:20px;
+			
+	}
+	.pics{
+			width:400px;
+			height:250px;
+			margin-left:30px;
+			border-radius:10px;
+			 -webkit-filter: grayscale(100%); 
+			filter: grayscale(100%);
+			-webkit-transition: 1s;
+			box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	}
+	.pics:hover{
+			-webkit-filter: grayscale(0%); 
+			filter: grayscale(0%);
+			-webkit-transition: 1s
+	}
+	
+	.school-images{
+			margin-top:30px;
+	}
+	
+	
